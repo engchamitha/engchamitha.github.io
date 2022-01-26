@@ -1,0 +1,40 @@
+/* Tag selector*/
+h1{
+	color:gold;
+	text-align:center;
+	background-color: silver;
+	padding: 1em;
+	font-family: Garamond;
+	font-style: italic;
+}
+
+/*The ID selector*/
+
+#division1{
+	background-color: aqua;
+	padding: 30px;
+	border: 2px solid orange;
+	border-radius: 20px;
+}
+
+/* Class selector*/
+
+.class1{
+	background-color: gold;
+	padding: 10px;
+}
+
+.class2{
+	background-color: white;
+	padding: 20px;
+}
+
+hr{
+	
+	
+	text-align:left;
+	background-color:black;
+	color:white;
+	margin-left:0;
+	width:50%;
+}
